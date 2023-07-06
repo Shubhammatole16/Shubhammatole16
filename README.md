@@ -19,7 +19,9 @@
   
 🌟 Projects:
 
-- Portfolio Website-
+- Portfolio Website-My portfolio website is a visually appealing and responsive platform that showcases my skills and projects. It features sections like About Me, Projects and Contact. Users can easily get in touch with me through the contact section. The website is designed to grow as I continue to add new projects and update my skills.
+  
 Demo-link-> https://shubhammatole16.github.io/shubham-portfolio/
-Code-link-> 
+Code-link-> https://github.com/Shubhammatole16/shubham-portfolio
+
 📫 Reach me: shubhammatole1gmail.com
