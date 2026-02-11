@@ -1,34 +1,77 @@
-👋 Hi there! I'm Shubham Matole, a recent Computer Science Engineering graduate passionate about software development and technology.
+# 👋 Hi, I'm Shubham Matole
 
-🎓 Education:
+💻 Software Developer | Java Backend Developer | Computer Science Graduate (2023)
 
--  B.Tech in Computer Science Engineering, Savitribai Phule Pune University, 2023
-  
-💼 Interests:
+I am a passionate Software Developer with a strong foundation in Java, Web Development, and Database systems. I enjoy building responsive web applications and scalable backend systems that solve real-world problems.
 
--  Full-stack web development
--  Software engineering
+---
 
-🚀 Skills:
+## 🎓 Education
 
--  Web development: HTML, CSS, JavaScript
--  Languages:c,c++,java
--  Databases: SQL
--  Version control: Git, GitHub
--  Tools: vs-code,Eclipse,Intellij IDEA.
-  
-🌟 Projects:
+**B.Tech in Computer Science Engineering**  
+Savitribai Phule Pune University  
+Graduated: 2023  
+CGPA: 8.41 / 10
 
-- Portfolio Website-My portfolio website is a visually appealing and responsive platform that showcases my skills and projects. It features sections like About Me, Projects and Contact. Users can easily get in touch with me through the contact section. The website is designed to grow as I continue to add new projects and update my skills.
-  
-Demo-link-> https://shubhammatole16.github.io/shubham-portfolio/
+---
 
-Code-link-> https://github.com/Shubhammatole16/shubham-portfolio
+## 🚀 Technical Skills
 
-- Coverpage-Generator-This sp Website  was created for my sister. It is designed to make college life easier by providing a hassle-free solution for generating cover pages for lab reports. Studdent just needs to fill the required information in the user-friendly input fields and upon clicking the download buttton the PDF cover page will be generated. Other features are coming soon.
+### 💻 Programming Languages
+- Java
+- JavaScript
 
-Demo-link-> https://shubhammatole16.github.io/Coverpage-Generator/
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
 
-Code-link->https://github.com/Shubhammatole16/Coverpage-Generator/
+### 🗄️ Databases
+- MySQL
+- SQL
 
-📫 Reach me: shubhammatole1gmail.com
+### 🔧 Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- IntelliJ IDEA
+- JDBC
+
+---
+
+## 🌟 Projects
+
+### 🔹 Portfolio Website
+A responsive and modern portfolio website showcasing my skills, projects, and contact information. Designed with clean UI and structured layout.
+
+🔗 **Live Demo:**  
+https://shubhammatole16.github.io/shubham-porfolio-2.0/
+
+💻 **Source Code:**  
+https://github.com/Shubhammatole16/shubham-portfolio-2.0
+
+---
+
+### 🔹 Lab Report Cover Page Generator
+A web-based tool developed to simplify cover page generation for college students. Users can input details and instantly generate downloadable PDF cover pages.
+
+🔗 **Live Demo:**  
+https://shubhammatole16.github.io/Coverpage-Generator/
+
+💻 **Source Code:**  
+https://github.com/Shubhammatole16/Coverpage-Generator/
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a **Software Developer** or **Java Backend Developer** where I can contribute to impactful projects and continuously enhance my technical skills.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: shubhammatole1@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shubham-matole-81335021b/  
+💻 GitHub: https://github.com/Shubhammatole16
